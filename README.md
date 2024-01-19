@@ -1,7 +1,6 @@
-# Rust_Up_Four
-Rust tutorial from beginner level to expert level 
+# Rust tutorial
 
-BUGINNER LEVEL:
+BEGINNER LEVEL:
 # Why rust
 fastest language after c
 Rich type system
@@ -83,3 +82,4 @@ As learners progress through these levels, they should work on real-world projec
 
 # execution enviroment 
 https://play.rust-lang.org/?version=stable&mode=debug&edition=2021
+Phrazy introduction to rust

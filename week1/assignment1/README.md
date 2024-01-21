@@ -1,3 +1,3 @@
 ## Assignment 1
 
-Configure Rust on your local machine and execute a hello world program.
+Configure Rust and Cargo on your local machine and execute a hello world program.

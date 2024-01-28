@@ -1,0 +1,12 @@
+/home/sharon/Rust_Up_Four/week1/Sharon/target/debug/deps/proc_macro2-d7bc41db29ed9d5a.rmeta: /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/lib.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/marker.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/parse.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/rcvec.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/detection.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/fallback.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/extra.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/wrapper.rs
+
+/home/sharon/Rust_Up_Four/week1/Sharon/target/debug/deps/proc_macro2-d7bc41db29ed9d5a.d: /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/lib.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/marker.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/parse.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/rcvec.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/detection.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/fallback.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/extra.rs /home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/wrapper.rs
+
+/home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/lib.rs:
+/home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/marker.rs:
+/home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/parse.rs:
+/home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/rcvec.rs:
+/home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/detection.rs:
+/home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/fallback.rs:
+/home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/extra.rs:
+/home/sharon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/proc-macro2-1.0.78/src/wrapper.rs:
